@@ -1,0 +1,1 @@
+# safetyfr-forecast-data
