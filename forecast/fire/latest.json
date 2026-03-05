@@ -1,1 +1,1 @@
-{"generated_at":"2026-03-05T06:09:10.762582Z","source":"EFFIS / Copernicus (FWI via WMS)","errors":["fire_bundle_error: name 'render_layer' is not defined"],"depts_ok":0,"top_depts_h24":[],"top_depts_h48":[],"top_depts_h72":[]}
+{"generated_at":"2026-03-05T06:34:25.506766Z","source":"EFFIS / Copernicus (FWI via WMS)","errors":["fire_bundle_error: name 'layer' is not defined"],"depts_ok":0,"top_depts_h24":[],"top_depts_h48":[],"top_depts_h72":[]}
